@@ -31,3 +31,4 @@
 *.out
 *.app
 .vscode/*
+cpp-essential-training/.vscode/settings.json
